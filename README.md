@@ -1,6 +1,7 @@
-# Hello, I'm Heber
+# Hello
 ***
-I was born on **2008**. I'm **Brazilian** so my english still far from perfect. My favorite colours are blue, black and white. Last but not least my favorite fruit is orange.
+I'm young programmer, wanting to learn more each day, and be better bit by bit. I've knowledge with Python, Lua, Javascript/Typescript and Java.
+The next languages I wanna learn are C, C++ and C#.
 ***
 ## Have a nice day!
 <!---
