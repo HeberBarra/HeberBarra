@@ -9,7 +9,3 @@ I love techonology, and I always likes to learn new things and challenge myself,
 <div align="center">
   <img width="600rem" align="center" src="https://github-readme-stats.vercel.app/api?username=HeberBarra&hide=contribs&hide_title=true&include_all_commits=true&show_icons=true&theme=transparent" />
 </div>
-<br/>
-<div align="center">
-  <img width="600rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberBarra&layout=donut&theme=transparent" />
-</div>
